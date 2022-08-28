@@ -1,4 +1,10 @@
-<p align="center"><img src="art/banner-2x.png"></p>
+# READ
+
+https://driesvints.com/blog/getting-started-with-dotfiles
+https://github.com/holman/dotfiles
+https://github.com/mathiasbynens/dotfiles/blob/master/.macos
+https://github.com/kevinSuttle/macOS-Defaults/blob/master/.macos
+https://dotfiles.github.io/
 
 ## Introduction
 
